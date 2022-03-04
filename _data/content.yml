@@ -128,7 +128,7 @@ skills:
       items:
         - label: "JavaScript"
           # value: "90" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+          # text: "Etiam sit amet orci eget eros faucibus tincidunt."
 
         - label: "Python"
           value: "75" #0-100 progress in %
