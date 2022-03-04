@@ -121,33 +121,27 @@ skills:
     #       value: "85" #0-100 progress in %
     #       text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
 
-    # - type: "circles" #skills progress type - default, dotted, circles
+    
       title: "Coding Skills"
       subtitle: "Developing on"
-      slug: "code"
+      # slug: "code"
       items:
         - label: "JavaScript"
-          # value: "90" #0-100 progress in %
-          # text: "Etiam sit amet orci eget eros faucibus tincidunt."
+          text: "Etiam sit amet orci eget eros faucibus tincidunt."
 
         - label: "Python"
-          value: "75" #0-100 progress in %
           text: "Etiam sit amet orci eget eros faucibus tincidunt."
 
         - label: "Solidity"
-          value: "85" #0-100 progress in %
           text: "Etiam sit amet orci eget eros faucibus tincidunt."
 
         - label: "React"
-          value: "80" #0-100 progress in %
           text: "Etiam sit amet orci eget eros faucibus tincidunt."
 
         - label: "Flask"
-          value: "95" #0-100 progress in %
           text: "Etiam sit amet orci eget eros faucibus tincidunt."
 
         - label: "Express"
-          value: "90" #0-100 progress in %
           text: "Etiam sit amet orci eget eros faucibus tincidunt."
 
 ### Testimonials [ testimonials ]
