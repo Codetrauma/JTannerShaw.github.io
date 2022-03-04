@@ -10,12 +10,12 @@ settings:
 header:
   logo:
     image: "assets/img/logo.png"
-    text: "Joé <br />Wilson"
-    alt: "Joé Wilson"
+    text: "Tanner <br />Shaw"
+    alt: "Tanner Shaw"
 
   button:
     text: "Download CV"
-    url: "https://drive.google.com/"
+    url: "https://drive.google.com/file/d/10cBcr3mNfsVDbIKVpK1cNv8muoo27aco/view?usp=sharing"
     icon: "fas fa-download"
 
 ### Portfolio Filters Settings

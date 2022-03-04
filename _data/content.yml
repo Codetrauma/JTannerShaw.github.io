@@ -9,7 +9,7 @@ started:
   typed:
     - "Web Developer"
     - "Programmer"
-  text: ""
+  text: "Hey! My name's Tanner. Formerly a competitive esports player and coach, turned software engineer!"
   button:
     text: "Contact Me"
     link: "#section-contacts"
@@ -305,12 +305,12 @@ portfolio:
 contacts:
   title: "Contact"
   subtitle: "Let's talk"
-  name: "Joe Wilson"
-  subname: "Consultant & Mentor"
-  signature: "Joe Wilson"
+  name: "Tanner Shaw"
+  subname: "Software Engineer"
+  signature: "Tanner Shaw"
   list:
     - label: "Age:"
-      value: "24"
+      value: "30"
 
     - label: "Residence:"
       value: "USA"
@@ -319,10 +319,10 @@ contacts:
       value: "Available"
 
     - label: "Address:"
-      value: "San Francisco"
+      value: "Portland, OR"
 
     - label: "Phone:"
-      value: "+1 256 254 84 56"
+      value: "(541) 224-8219"
 
     - label: "E-mail:"
-      value: "alejandroa@gmail.com"
+      value: "JTannerShaw@gmail.com"
