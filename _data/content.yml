@@ -100,53 +100,53 @@ skills:
           value: "85" #0-100 progress in %
           text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
 
-    - type: "dotted" #skills progress type - default, dotted, circles
-      title: "Language Skills"
-      subtitle: "Reading and writing"
-      slug: "lang"
-      items:
-        - label: "English"
-          value: "90" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+    # - type: "dotted" #skills progress type - default, dotted, circles
+    #   title: "Language Skills"
+    #   subtitle: "Reading and writing"
+    #   slug: "lang"
+    #   items:
+    #     - label: "English"
+    #       value: "90" #0-100 progress in %
+    #       text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
 
-        - label: "German"
-          value: "70" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+    #     - label: "German"
+    #       value: "70" #0-100 progress in %
+    #       text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
 
-        - label: "Italian"
-          value: "55" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+    #     - label: "Italian"
+    #       value: "55" #0-100 progress in %
+    #       text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
 
-        - label: "French"
-          value: "85" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+    #     - label: "French"
+    #       value: "85" #0-100 progress in %
+    #       text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
 
     - type: "circles" #skills progress type - default, dotted, circles
       title: "Coding Skills"
       subtitle: "Developing on"
       slug: "code"
       items:
-        - label: "WordPress"
-          value: "90" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
-
-        - label: "PHP, MYSQL"
-          value: "75" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
-
         - label: "JavaScript"
-          value: "85" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
-
-        - label: "Angular"
-          value: "80" #0-100 progress in %
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
-
-        - label: "HTML, CSS"
-          value: "95" #0-100 progress in %
+          # value: "90" #0-100 progress in %
           text: "Etiam sit amet orci eget eros faucibus tincidunt."
 
         - label: "Python"
+          value: "75" #0-100 progress in %
+          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+
+        - label: "Solidity"
+          value: "85" #0-100 progress in %
+          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+
+        - label: "React"
+          value: "80" #0-100 progress in %
+          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+
+        - label: "Flask"
+          value: "95" #0-100 progress in %
+          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+
+        - label: "Express"
           value: "90" #0-100 progress in %
           text: "Etiam sit amet orci eget eros faucibus tincidunt."
 
