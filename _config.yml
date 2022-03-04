@@ -29,7 +29,7 @@
 # in the templates via {{ site.myvariable }}.
 
 # basic settings
-title: "Tanner Shaw | Software Engineer"
+title: "Tanner Shaw - Software Engineer"
 email: "JTannerShaw@gmail.com"
 description: "Tanner Shaw Portfolio"
 author: "Admin"
