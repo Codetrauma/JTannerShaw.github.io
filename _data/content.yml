@@ -64,17 +64,13 @@ resume:
     title: "Education"
     subtitle: "Studied at"
     items:
-      - year: "2011-2012"
-        name: "Art University <br />New York"
-        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
-
-      - year: "2010-2011"
-        name: "Programming Course <br />Paris"
-        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
+      - year: "2021-2022"
+        name: "App Academy"
+        text: "Fullstack Software engineer coding bootcamp"
 
       - year: "2009-2010"
-        name: "Web Design Course <br />London"
-        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
+        name: "Tidewater Community College"
+        text: "Computer Science"
 
 ### Skills [ skills ]
 skills:
@@ -121,7 +117,7 @@ skills:
     #       value: "85" #0-100 progress in %
     #       text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
 
-    
+
       title: "Coding Skills"
       subtitle: "Developing on"
       # slug: "code"
