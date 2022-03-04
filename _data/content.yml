@@ -23,14 +23,14 @@ about:
     - label: "Age"
       value: "30"
 
-    - label: "Residence"
+    - label: "Country"
       value: "USA"
 
     - label: "Freelance"
       value: "Available"
 
-    - label: "Address"
-      value: "Portland"
+    - label: "Residence"
+      value: "Portland, Oregon"
 
     - label: "Phone"
       value: "(541) 224-8219"
@@ -210,13 +210,13 @@ contacts:
     - label: "Age:"
       value: "30"
 
-    - label: "Residence:"
+    - label: "Country:"
       value: "USA"
 
     - label: "Freelance:"
       value: "Available"
 
-    - label: "Address:"
+    - label: "Residence:"
       value: "Portland, OR"
 
     - label: "Phone:"
