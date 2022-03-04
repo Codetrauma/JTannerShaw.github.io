@@ -72,6 +72,10 @@ resume:
         name: "Tidewater Community College"
         text: "Computer Science"
 
+      - year: "2005-2009"
+        name: "Kellam Highschool"
+        text: ""
+
 ### Skills [ skills ]
 skills:
   columns:
@@ -122,23 +126,17 @@ skills:
       subtitle: "Developing on"
       # slug: "code"
       items:
-        - label: "JavaScript"
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+        - label: "Frontend Development"
+          text: "React, Redux, VanillaJS, HTML5, CSS3"
 
-        - label: "Python"
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+        - label: "Backend Development"
+          text: "Solidity, Flask, SQLAlchemy, Express, Sequelize"
 
-        - label: "Solidity"
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+        - label: "Design"
+          text: "Material, CSS3, Responsive Design"
 
-        - label: "React"
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
-
-        - label: "Flask"
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
-
-        - label: "Express"
-          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+        - label: "Agile Approach"
+          text: "Agile Methodologies, Lean management, SDLC"
 
 ### Testimonials [ testimonials ]
 testimonials:
