@@ -45,20 +45,21 @@ resume:
     subtitle: "Working with"
     items:
       - year: "Present"
-        name: "The Turin <br />Olympics"
-        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
+        name: "Wagyu"
+        text: "Wagyu (formerly known as StakeHouse) is an application aimed at lowering the technical bar to staking on Ethereum 2.0. Dubbed a 'one-click installer', it provides a clean UI automating the setup and management of all the infrastructure necessary to stake without the user needing to have any technical knowledge."
 
-      - year: "2016-2018"
-        name: "Red <br />Drifting"
-        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
 
-      - year: "2014-2016"
-        name: "World <br />Economy"
-        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
+      - year: "2022"
+        name: "ForTheGram"
+        text: "My capstone project from App Academy. Inspired by Instagram"
 
-      - year: "2012-2014"
-        name: "Art Director <br />Facedevs"
-        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
+      - year: "2022"
+        name: "One-to-Ten"
+        text: "One-To-Ten, a project inspired by OKCupid, is a platform that allows users to take surveys and match with other users based on response data."
+
+      - year: "2021"
+        name: "Gotta-Latte-Do"
+        text: "Gotta Latte Do is a 'smart to-do app' that organizes user tasks, and allows for interactivity on tasks between users. It is inspired by Remember the Milk."
 
   education:
     title: "Education"
