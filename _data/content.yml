@@ -18,7 +18,7 @@ started:
 about:
   title: "About Me"
   subtitle: "My story"
-  text: "<p>My name is Tanner, and most recently I worked in the Esports industry as a Coach and Analyst. Becoming a software engineer is something that I've been interested in for as long as I can remember and feel I've finally found my passion. Let's see what we can create together! </p>"
+  text: "<p>My name is Tanner, originally from Virginia Beach, Virginia and now a resident of Portland, Oregon. Most recently I worked in the Esports industry as a Coach and Analyst, but becoming a software engineer is something that I've been interested in for as long as I can remember and feel I've finally found my passion. Let's see what we can create together! </p>"
   list:
     - label: "Age"
       value: "30"
