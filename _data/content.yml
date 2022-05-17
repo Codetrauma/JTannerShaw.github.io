@@ -45,7 +45,7 @@ resume:
     subtitle: "Working with"
     items:
       - year: "Present"
-        name: "<a href='<a href='https://github.com/stake-house/wagyu-installer'>Wagyyu</a>"
+        name: "<a href='https://github.com/stake-house/wagyu-installer'>Wagyyu</a>"
         label: "<a href='https://github.com/stake-house/wagyu-installer'>Github</a>"
         text: "<a href='https://github.com/stake-house/wagyu-installer'>Github</a>"
         value: https://github.com/stake-house/wagyu-installer
