@@ -46,7 +46,9 @@ resume:
     items:
       - year: "Present"
         name: "Wagyu"
-        url: https://github.com/stake-house/wagyu-installer
+        label: "<a href='https://github.com/stake-house/wagyu-installer'>Github</a>"
+        text: "<a href='https://github.com/stake-house/wagyu-installer'>Github</a>"
+        value: https://github.com/stake-house/wagyu-installer
         text: "Wagyu (formerly known as StakeHouse) is an application aimed at lowering the technical bar to staking on Ethereum 2.0. Dubbed a 'one-click installer', it provides a clean UI automating the setup and management of all the infrastructure necessary to stake without the user needing to have any technical knowledge."
 
 
