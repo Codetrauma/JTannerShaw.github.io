@@ -45,15 +45,12 @@ resume:
     subtitle: "Working with"
     items:
       - year: "Present"
-        name: "<a href='https://github.com/stake-house/wagyu-installer'>Wagyyu</a>"
-        label: "<a href='https://github.com/stake-house/wagyu-installer'>Github</a>"
-        text: "<a href='https://github.com/stake-house/wagyu-installer'>Github</a>"
-        value: https://github.com/stake-house/wagyu-installer
+        name: "<a href='https://github.com/stake-house/wagyu-installer' target='_blank'>Wagyu</a>"
         text: "Wagyu (formerly known as StakeHouse) is an application aimed at lowering the technical bar to staking on Ethereum 2.0. Dubbed a 'one-click installer', it provides a clean UI automating the setup and management of all the infrastructure necessary to stake without the user needing to have any technical knowledge."
 
 
       - year: "2022"
-        name: "ForTheGram"
+        name: "<a href='http://forthegram-aa.herokuapp.com/' target='_blank'>ForTheGram</a>"
         text: "My capstone project from App Academy. Inspired by Instagram"
 
       - year: "2022"
