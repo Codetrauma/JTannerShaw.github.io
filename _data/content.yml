@@ -54,11 +54,11 @@ resume:
         text: "My capstone project from App Academy. Inspired by Instagram"
 
       - year: "2022"
-        name: "One-to-Ten"
+        name: "<a href='http://onetwoten.herokuapp.com/' target='_blank'>One-To-Ten</a>"
         text: "One-To-Ten, a project inspired by OKCupid, is a platform that allows users to take surveys and match with other users based on response data."
 
       - year: "2021"
-        name: "Gotta-Latte-Do"
+        name: "<a href='http://gotta-latte-do.herokuapp.com/' target='_blank'>Gotta-Latte-Do</a>"
         text: "Gotta Latte Do is a 'smart to-do app' that organizes user tasks, and allows for interactivity on tasks between users. It is inspired by Remember the Milk."
 
   education:
